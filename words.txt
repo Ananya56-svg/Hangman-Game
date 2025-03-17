@@ -1,0 +1,7 @@
+apple
+banana
+hello
+school
+india
+tiger
+world
